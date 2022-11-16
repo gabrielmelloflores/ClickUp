@@ -25,7 +25,7 @@ var ClickUp = {
 	},
 
     setCaminhos: function() {
-		ClickUp.caminhoAjax    = '/clickUp/ajax.php';
+		ClickUp.caminhoAjax    = 'ajax.php';
 	},
 
     getDados: function() {
